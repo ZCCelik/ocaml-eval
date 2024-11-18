@@ -1,0 +1,16 @@
+# dune exec ./bin/main.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/zeynepcerencelik/.cache/dune/db
+# Workspace root: /Users/zeynepcerencelik/ocaml-eval/ocaml_eval
+# Auto-detected concurrency: 10
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/zeynepcerencelik/.opam/5.1.1/bin/ocamlc.opt -config > /var/folders/tm/45qjd4fj65b2x7ck9hy9yscm0000gn/T/dune_fc435b_output
